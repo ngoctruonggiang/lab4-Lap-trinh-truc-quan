@@ -1,0 +1,54 @@
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.exe
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.deps.json
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.runtimeconfig.json
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.pdb
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.Form1.resources
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.FormThemSinhVien.resources
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.Properties.Resources.resources
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.csproj.GenerateResource.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.AssemblyInfoInputs.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.AssemblyInfo.cs
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.csproj.CoreCompileInputs.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\refint\Bai05.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.pdb
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.genruntimeconfig.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\ref\Bai05.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\Do an thuc hanh cuoi ky\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.csproj.AssemblyReference.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.exe
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.deps.json
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.runtimeconfig.json
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Bai05.pdb
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\EPPlus.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.csproj.AssemblyReference.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.Form1.resources
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.FormThemSinhVien.resources
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.Properties.Resources.resources
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.csproj.GenerateResource.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.AssemblyInfoInputs.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.AssemblyInfo.cs
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.csproj.CoreCompileInputs.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.csproj.Up2Date
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\refint\Bai05.dll
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.pdb
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\Bai05.genruntimeconfig.cache
+D:\Tai lieu mon hoc 2024\Lập trình trực quan\BTH4_DangNgocTruongGiang_23520406\Bai05\obj\Debug\net8.0-windows\ref\Bai05.dll
